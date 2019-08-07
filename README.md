@@ -11,6 +11,6 @@ https://stamm-wilbrandt.de/en/Raspberry_camera.html
 Animations extracted from youtube videos by https://makeagif.com/youtube-to-gif tool are typically reduced in resolution a bit; follow the link to related posting for original video. Maximal (free) animation duration by that tool is 10s, lookup original video if animation is only a part.
 
 Samples are sorted alphabetically by subject area:  
-[blades](blades) &mdash; [coins](coins) &mdash; [flame](flame) &mdash; [flying_airgun_pellet](flying_airgun_pellet) &mdash;  
-[from-train](from-train) &mdash; [glass](glass) &mdash;  [microscope](microscope) &mdash;  
-[motor-test-station](motor-test-station) &mdash; [mousetrap](mousetrap) &mdash; [propeller](propeller) &mdash; [yo-yo](yo-yo)
+[blades](blades/README.md) &mdash; [coins](coins/README.md) &mdash; [flame](flame/README.md) &mdash; [flying_airgun_pellet](flying_airgun_pellet/README.md) &mdash;  
+[from-train](from-train/README.md) &mdash; [glass](glass/README.md) &mdash;  [microscope](microscope/README.md) &mdash;  
+[motor-test-station](motor-test-station/README.md) &mdash; [mousetrap](mousetrap/README.md) &mdash; [propeller](propeller/README.md) &mdash; [yo-yo](yo-yo/README.md)
