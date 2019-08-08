@@ -13,7 +13,7 @@ Characterising multiple exposure frames, the unit is eps (exposures per second).
 ![pellet3](../res/airgun.1a.jpg)
 
 [airgun multiple exposure frame](https://github.com/Hermann-SW/Raspberry_v1_camera_global_external_shutter#user-content-9000eps)  
-0.3MP, 8.33&micro;s duration flashes at 9KHz frequency, 96.9m/s pellet speed, 9000eps:
+0.3MP, 9KHz frequency 8.33&micro;s duration flashes, 96.9m/s pellet speed, 1.07cm between pellet exposures, 9000eps:
 ![pellet3](../res/pointed.pellet.frame0360.jpg)
 
 Previous frame lens distortion correted with OpenCV:  
