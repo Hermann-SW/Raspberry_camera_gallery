@@ -12,5 +12,5 @@ Animations extracted from youtube videos by https://makeagif.com/youtube-to-gif 
 
 Samples are sorted alphabetically by subject area:  
 [blades](blades/#blades) &mdash; [coins](coins/#coins) &mdash; [flame](flame/#flame) &mdash; [flying_airgun_pellet](flying_airgun_pellet/#flying_airgun_pellet) &mdash;  
-[from-train](from-train/#from_train) &mdash; [glass](glass/#glass) &mdash;  [microscope](microscope/#microscope) &mdash;  
-[motor-test-station](motor-test-station/#motor_test_station) &mdash; [mousetrap](mousetrap/#mousetrap) &mdash; [propeller](propeller/#propeller) &mdash; [yo-yo](yo-yo/#yo_yo)
+[from-train](from-train/#from-train) &mdash; [glass](glass/#glass) &mdash;  [microscope](microscope/#microscope) &mdash;  
+[motor-test-station](motor-test-station/#motor-test-station) &mdash; [mousetrap](mousetrap/#mousetrap) &mdash; [propeller](propeller/#propeller) &mdash; [yo-yo](yo-yo/#yo_yo)
