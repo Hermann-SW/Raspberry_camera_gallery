@@ -1,4 +1,4 @@
-# Raspberry_camera_gallery
+# Raspberry camera gallery
 
 This gallery provides a big amount of samples for frames/videos captured with Raspberry cameras (v1 and v2) by techniques described in this webpage:  
 https://stamm-wilbrandt.de/en/Raspberry_camera.html
@@ -11,6 +11,6 @@ https://stamm-wilbrandt.de/en/Raspberry_camera.html
 Animations extracted from youtube videos by https://makeagif.com/youtube-to-gif tool are typically reduced in resolution a bit; follow the link to related posting for original video. Maximal (free) animation duration by that tool is 10s, lookup original video if animation is only a part.
 
 Samples are sorted alphabetically by subject area:  
-[blades](blades/README.md) &mdash; [coins](coins/README.md) &mdash; [flame](flame/README.md) &mdash; [flying_airgun_pellet](flying_airgun_pellet/README.md) &mdash;  
-[from-train](from-train/README.md) &mdash; [glass](glass/README.md) &mdash;  [microscope](microscope/README.md) &mdash;  
-[motor-test-station](motor-test-station/README.md) &mdash; [mousetrap](mousetrap/README.md) &mdash; [propeller](propeller/README.md) &mdash; [yo-yo](yo-yo/README.md)
+[blades](blades/#blades) &mdash; [coins](coins/#coins) &mdash; [flame](flame/#flame) &mdash; [flying_airgun_pellet](flying_airgun_pellet/#flying_airgun_pellet) &mdash;  
+[from-train](from-train/#from_train) &mdash; [glass](glass/#glass) &mdash;  [microscope](microscope/#microscope) &mdash;  
+[motor-test-station](motor-test-station/#motor_test_station) &mdash; [mousetrap](mousetrap/#mousetrap) &mdash; [propeller](propeller/#propeller) &mdash; [yo-yo](yo-yo/#yo_yo)
