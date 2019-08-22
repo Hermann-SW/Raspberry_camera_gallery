@@ -21,3 +21,7 @@ Bar hits black piezo igniter which creates a spark between cables at front of mo
 
 [640x150_s tool 1007fps video](https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=212518&p=1310445#p1431771) from top with 150&micro;s shutter time, lit by focussed 5000lm led:
 ![mousetrap7](../res/mt.1007fps.5000lm.150us.anim.gif)
+
+[640x150_s tool 1007fps video](https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=212518&p=1314765&hilit=hermannsw+1000fps#p1433278) from top with 12&micro;s(!) shutter time, focussed lit by two 5000lm leds.  
+Because of the very short shutter time video is very clear:
+![mousetrap8](../res/mt.1007fps.10000lm.12us.anim.gif)
