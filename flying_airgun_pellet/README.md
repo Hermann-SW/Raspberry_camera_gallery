@@ -18,3 +18,9 @@ Characterising multiple exposure frames, the unit is eps (exposures per second).
 
 Previous frame lens distortion correted with OpenCV:  
 ![pellet4](../res/pointed.pellet.frame0360_undistorted.jpg.png)
+
+[airsoft pistol multiple exposure frame](https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=241418&p=1531537#p1531537)  
+Flying pellet spins fast, 93.75rps or 5625rpm (see blue dot on pellet).  
+2MP, 9&micro;s duration flashes at 6KHz frequency, 36.3m/s pellet speed, 6000eps:  
+![pellet3](../res/pellet.rotation.png)
+
