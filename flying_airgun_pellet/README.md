@@ -24,3 +24,7 @@ Flying pellet spins fast, 93.75rps or 5625rpm (see blue dot on pellet).
 2MP, 9&micro;s duration flashes at 6KHz frequency, 36.3m/s pellet speed, 6000eps:  
 ![pellet3](../res/pellet.rotation.png)
 
+[airsoft pistol 3pellets multiple exposure frame](https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=253300&p=1547107#p1547107)  
+The frame shows 3 pellets shot together by airsoft pistol. 300Hz frequency with 9µs long flashes was used. The left 3 pellets belong to one exposure, and the right three pellets to the next exposure:  
+![3pellets](../res/good.0485.png)
+
