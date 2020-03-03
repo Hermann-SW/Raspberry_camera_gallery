@@ -28,3 +28,9 @@ Flying pellet spins fast, 93.75rps or 5625rpm (see blue dot on pellet).
 The frame shows 3 pellets shot together by airsoft pistol. 300Hz frequency with 9µs long flashes was used. The left 3 pellets belong to one exposure, and the right three pellets to the next exposure:  
 ![3pellets](../res/good.0485.png)
 
+Animation created from [full and empty frame](https://github.com/Hermann-SW/Raspberry_v1_camera_global_external_shutter#full-and-empty-frame), 5000fps framerate, played at 5fps, 1000× slower than real:  
+![pellet5](../res/frame.640.5.anim.gif)
+
+[camera software panning](https://github.com/Hermann-SW/Raspberry_v1_camera_global_external_shutter#camera-software-panning) allows to simulate really fast real camera panning in post processing.  
+From 2500eps frame, full rotation in 5 frames, that is 500rps or 30,000rpm spinning of pellet:  
+![pellet6](../res/frame.180.5.anim.gif)
